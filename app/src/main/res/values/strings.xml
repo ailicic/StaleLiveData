@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StaleLiveData</string>
+    <string name="unobserve">Unobserve</string>
+    <string name="observe">Observe</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+</resources>
